@@ -63,7 +63,7 @@
 
 <a href = "https://www.linkedin.com/in/rohit-priyadarshi-360573196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/RohitPr99120853"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href =" https://www.instagram.com/rohit.codess/ "><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = " https://www.instagram.com/rohit.codess"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 
 
 </p>
