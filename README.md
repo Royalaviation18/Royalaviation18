@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Amazon Prime Clone](https://github.com/Royalaviation18/AmazonprimeClone)**
+- 🔭 I’m currently working on **[Persona](https://github.com/Royalaviation18/Persona)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin.**
 
