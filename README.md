@@ -2,7 +2,7 @@
 
 <p style="color:White">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit</h1>
-<h2 align="center">I'm a passionate Android Developer from India.</h2></p>
+<h2 align="center">I'm a passionate Software Developer from India.</h2></p>
 
 
 ## 🙋‍♂️ About Me
