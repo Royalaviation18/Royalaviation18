@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Persona](https://github.com/Royalaviation18/Persona)**
+- 🔭 I’m currently working on **[Khana Khazana](https://github.com/Royalaviation18/KhanaKhazan)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin.**
 
