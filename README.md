@@ -58,14 +58,13 @@
 <br/>
 <br/>
 
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/royalaviation18/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/RohitPr99120853"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rohit.codess"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-
-
+<a href="https://twitter.com/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royalaviation18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royalaviation18" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="royalaviation18" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit.codess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit.codess" height="30" width="40" /></a>
+<a href="https://discord.gg/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="royalaviation18" height="30" width="40" /></a>
 </p>
 
 <!-- ## ❤ Views and Followers
