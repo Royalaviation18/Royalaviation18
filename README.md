@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rohitp2203@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wOeKricR92D7wjSYMQEOnz2sW5QtW9ul/view?usp=sharing](https://drive.google.com/file/d/1wOeKricR92D7wjSYMQEOnz2sW5QtW9ul/view?usp=sharing)
+- 😀 Pronouns **He/Him**
 
 - ⚡ Fun fact **I am half finished 🥲**
 
