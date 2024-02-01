@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Khana Khazana](https://github.com/Royalaviation18/KhanaKhazan)**
+- 🔭 I’m currently working on **[Kotlin](https://github.com/Royalaviation18/KotlinProjects)**
 
-- 🌱 I’m currently learning **Android Development with Kotlin.**
+- 🌱 I’m currently learning **Android Development with Kotlin and Jetpack Compose.**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at  **https://zaap.bio/royalaviation18**
+- 👨‍💻 All of my projects are available at  **https://solo.to/rohit.codes**
 
 - 📫 How to reach me **rohitp2203@gmail.com**
 
