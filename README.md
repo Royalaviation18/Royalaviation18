@@ -61,7 +61,7 @@
 <a href="https://linkedin.com/in/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royalaviation18" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="royalaviation18" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit.codess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit.codess" height="30" width="40" /></a>
-<a href="https://discord.gg/royalaviation18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="royalaviation18" height="30" width="40" /></a>
+<a href="https://discord.gg/royalaviation18" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="royalaviation18" height="30" width="40" /></a>
 </p>
 
 <!-- ## ❤ Views and Followers
