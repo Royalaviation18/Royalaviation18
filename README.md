@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kotlin](https://github.com/Royalaviation18/KotlinProjects)**
+- 🔭 I’m currently working on **[Jetpack Compose](https://github.com/Royalaviation18/JetpackCompose)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin and Jetpack Compose.**
 
