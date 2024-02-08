@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I am half finished 🥲.**
 
-## 🚀 Languages and Tools:
+##  Languages and Tools 🛠 :
 
 <p align="left"> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/kotlin.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/ruby-programming-language.png"/> <img height="50" width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
@@ -35,7 +35,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+##  My Github Stats 🚀
 
   <br/>
   <p align="center">
