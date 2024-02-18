@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Jetpack Compose](https://github.com/Royalaviation18/JetpackCompose)**
+- 🔭 I’m currently working on **[Sun Pulse](https://github.com/Royalaviation18/Sun-Pulse)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin and Jetpack Compose.**
 
