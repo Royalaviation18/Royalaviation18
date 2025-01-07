@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Weathernaut](https://github.com/Royalaviation18/weathernaut/)**
+- 🔭 I’m currently working on **[Smart-Contact-Manager](https://github.com/Royalaviation18/Smart-Contact-Manager)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin and Jetpack Compose.**
 
