@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit Priyadarshi</h1>
 <h3 align="center">A passionate Android Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<p align="left"> <a href="https://twitter.com/royalaviation18" target="blank"><img src="https://img.shields.io/twitter/follow/royalaviation18?logo=twitter&style=for-the-badge" alt="royalaviation18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/royalaviation18" target="blank"><img src="https://img.shields.io/twitter/follow/royalaviation18?logo=twitter&style=for-the-badge" alt="royalaviation18"/></a> </p>
 
 
 ## 🙋‍♂️ About Me
