@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Smart-Contact-Manager](https://github.com/Royalaviation18/Smart-Contact-Manager)**
+- 🔭 I’m currently working on **[IRCTC](https://github.com/Royalaviation18/IRCTC)**
 
 - 🌱 I’m currently learning **Android Development with Kotlin and Jetpack Compose.**
 
