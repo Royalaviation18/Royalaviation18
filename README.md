@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Auth-Service](https://github.com/Royalaviation18/AuthService1)**
+- 🔭 I’m currently working on **[Auth-Service](https://github.com/Royalaviation18/AuthService)**
 
 - 🌱 I’m currently learning **Backend Development**
 
