@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me 📫:</h3>
+<h3 align="left">📫 Connect with me :</h3>
 <p align="left">
 
 <a href="https://twitter.com/royalaviation18" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="royalaviation18" height="40" width="40" /></a>
