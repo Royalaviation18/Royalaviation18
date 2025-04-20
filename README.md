@@ -7,15 +7,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Auth-Service](https://github.com/Royalaviation18/AuthService)**
+- 🔭 Currently Building **[Auth-Service](https://github.com/Royalaviation18/AuthService)**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 Diving deep into **Backend Development**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 Open to collaborating on  **Android Projects**
 
-- 👨‍💻 All of my projects are available at  **https://solo.to/rohit.codes**
+- 👨‍💻 My portfolio  **https://solo.to/rohit.codes**
 
-- 📫 How to reach me **rohitp2203@gmail.com**
+- 📫 Reach me at: **rohitp2203@gmail.com**
 
 - 😀 Pronouns **He/Him**
 
