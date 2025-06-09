@@ -13,7 +13,7 @@
 
 - 👯 Open to collaborating on  **Android Projects**
 
-- 👨‍💻 My portfolio  **https://solo.to/rohit.codes**
+- 👨‍💻 My portfolio  **https://solo.to/royalaviation18**
 
 - 📫 Reach me at: **rohitp2203@gmail.com**
 
