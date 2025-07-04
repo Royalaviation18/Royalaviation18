@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently Building **[Auth-Service](https://github.com/Royalaviation18/AuthService)**
+- 🔭 Currently Building **[Smart-Contact-Manager](https://github.com/Royalaviation18/smart-contact-manager)**
 
 - 🌱 Diving deep into **Backend Development**
 
