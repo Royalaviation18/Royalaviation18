@@ -9,7 +9,7 @@
 
 - 🔭 Currently Building **[Smart-Contact-Manager](https://github.com/Royalaviation18/smart-contact-manager)**
 
-- 🌱 Diving deep into **Backend Development**
+- 🌱 Diving deep into **Full Stack Development**
 
 - 👯 Open to collaborating on  **Android Projects**
 
