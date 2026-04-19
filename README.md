@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/git.png" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" height="35" style="margin:5px;"/>
- <img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/postman.png](https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000)" height="35" style="margin:5px;"/>
+ <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" height="35" style="margin:5px;"/>
