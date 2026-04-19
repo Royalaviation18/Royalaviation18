@@ -48,7 +48,6 @@
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="35" style="margin:5px;"/>
   <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" height="35" style="margin:5px;"/>
-  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" height="35" style="margin:5px;"/>
 </p>
 
 <br/>
