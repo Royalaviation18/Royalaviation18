@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" width="40"/>
   <img src="https://img.icons8.com/color/48/kotlin.png" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=aGBLcugRkYpT&format=png&color=000000" height="40"/>
