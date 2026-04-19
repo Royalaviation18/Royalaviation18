@@ -24,43 +24,30 @@
 ##  Languages and Tools 🛠 :
 
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" width="40"/>
-  <img src="https://img.icons8.com/color/48/kotlin.png" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=aGBLcugRkYpT&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000" height="40"/>
-
-  <br/>
-
-  <!-- Row 2 -->
-  <img src="https://img.icons8.com/fluency/48/android-os.png" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/google-firebase-console.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/color/48/figma.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" height="40"/>
-
-  <br/>
-
-  <!-- Row 3 -->
-  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/color/48/intellij-idea.png" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/postman.png" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" height="40"/>
-
-  <br/>
-
-  <!-- Row 4 -->
-  <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=aGBLcugRkYpT&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/fluency/48/android-os.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/google-firebase-console.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/figma.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/git.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/postman.png" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" height="35" style="margin:5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" height="35" style="margin:5px;"/>
 </p>
 
 <br/>
